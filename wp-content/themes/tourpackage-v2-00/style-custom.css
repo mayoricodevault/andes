@@ -179,34 +179,34 @@ h1, h2, h3, h4, h5, h6, div.price-item .price-title, div.price-item .price-tag {
 h1.stunning-text-title, .under-slider-title{ font-family: ""; } 
 div.navigation-wrapper{ font-family: ""; } 
 .blog-info-wrapper i{ color: #6e6e6e; }
-div.personnal-widget-prev{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/personnal-widget-left.png); } 
-div.personnal-widget-next{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/personnal-widget-right.png); } 
-div.gdl-search-button, div.custom-sidebar #searchsubmit{ background: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/search-button.png) no-repeat center; } 
-div.top-search-wrapper input[type='submit']{ background: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/light/top-search.png) no-repeat right center;; } 
-div.custom-sidebar ul li{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/li-arrow.png); } 
-ul.gdl-accordion li, ul.gdl-toggle-box li{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-background.png); } 
-li.active > .accordion-title > span.accordion-icon, li.active > .toggle-box-title > span.toggle-box-icon{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title-active.png); } 
-span.accordion-icon, span.toggle-box-icon{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title.png); } 
-div.gdl-carousel-testimonial .testimonial-icon{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/testimonial-quote.png); } 
-div.blog-carousel-wrapper .blog-nav.left, div.portfolio-carousel-wrapper .port-nav.left, div.portfolio-carousel-description .port-nav.left, div.single-portfolio .port-prev-nav a{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-left.png); } 
-div.blog-carousel-wrapper .blog-nav.right, div.portfolio-carousel-wrapper .port-nav.right, div.portfolio-carousel-description .port-nav.right, div.single-portfolio .port-next-nav a{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-right.png); } 
+div.personnal-widget-prev{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/personnal-widget-left.png); }
+div.personnal-widget-next{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/personnal-widget-right.png); }
+div.gdl-search-button, div.custom-sidebar #searchsubmit{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/search-button.png) no-repeat center; }
+div.top-search-wrapper input[type='submit']{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/top-search.png) no-repeat right center;; }
+div.custom-sidebar ul li{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/li-arrow.png); }
+ul.gdl-accordion li, ul.gdl-toggle-box li{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-background.png); }
+li.active > .accordion-title > span.accordion-icon, li.active > .toggle-box-title > span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title-active.png); }
+span.accordion-icon, span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title.png); }
+div.gdl-carousel-testimonial .testimonial-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/testimonial-quote.png); }
+div.blog-carousel-wrapper .blog-nav.left, div.portfolio-carousel-wrapper .port-nav.left, div.portfolio-carousel-description .port-nav.left, div.single-portfolio .port-prev-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-left.png); }
+div.blog-carousel-wrapper .blog-nav.right, div.portfolio-carousel-wrapper .port-nav.right, div.portfolio-carousel-description .port-nav.right, div.single-portfolio .port-next-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-right.png); }
 @media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
-div.top-search-wrapper input[type='submit']{ background: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/light/top-search@2x.png) no-repeat right center;; } 
-li.active > .accordion-title > span.accordion-icon, li.active > .toggle-box-title > span.toggle-box-icon{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title-active@2x.png); } 
-span.accordion-icon, span.toggle-box-icon{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title@2x.png); } 
-div.gdl-carousel-testimonial .testimonial-icon{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/testimonial-quote@2x.png); } 
-div.blog-carousel-wrapper .blog-nav.left, div.portfolio-carousel-wrapper .port-nav.left, div.portfolio-carousel-description .port-nav.left, div.single-portfolio .port-prev-nav a{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-left@2x.png); } 
-div.blog-carousel-wrapper .blog-nav.right, div.portfolio-carousel-wrapper .port-nav.right, div.portfolio-carousel-description .port-nav.right, div.single-portfolio .port-next-nav a{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-right@2x.png); } 
+div.top-search-wrapper input[type='submit']{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/top-search@2x.png) no-repeat right center;; }
+li.active > .accordion-title > span.accordion-icon, li.active > .toggle-box-title > span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title-active@2x.png); }
+span.accordion-icon, span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title@2x.png); }
+div.gdl-carousel-testimonial .testimonial-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/testimonial-quote@2x.png); }
+div.blog-carousel-wrapper .blog-nav.left, div.portfolio-carousel-wrapper .port-nav.left, div.portfolio-carousel-description .port-nav.left, div.single-portfolio .port-prev-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-left@2x.png); }
+div.blog-carousel-wrapper .blog-nav.right, div.portfolio-carousel-wrapper .port-nav.right, div.portfolio-carousel-description .port-nav.right, div.single-portfolio .port-next-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-right@2x.png); }
 }
-div.footer-wrapper div.custom-sidebar ul li{ background: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/light/li-arrow.png) no-repeat 0px center; } 
-div.footer-wrapper div.custom-sidebar #searchsubmit{ background: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/light/search-button.png) no-repeat center; } 
-div.footer-wrapper div.personnal-widget-prev{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/light/personnal-widget-left.png); } 
-div.footer-wrapper div.personnal-widget-next{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/light/personnal-widget-right.png); } 
-div.footer-gallery-nav-left{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/light/nav-left.png); } 
-div.footer-gallery-nav-right{ background-image: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/light/nav-right.png); } 
-.flex-carousel .flex-direction-nav li a.flex-prev{ background: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/light/carousel-nav-left.png) no-repeat; } 
-.flex-carousel .flex-direction-nav li a.flex-next{ background: url(http://tour.me:8888/wp-content/themes/tourpackage-v2-00/images/icon/light/carousel-nav-right.png) no-repeat; } 
+div.footer-wrapper div.custom-sidebar ul li{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/li-arrow.png) no-repeat 0px center; }
+div.footer-wrapper div.custom-sidebar #searchsubmit{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/search-button.png) no-repeat center; }
+div.footer-wrapper div.personnal-widget-prev{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/personnal-widget-left.png); }
+div.footer-wrapper div.personnal-widget-next{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/personnal-widget-right.png); }
+div.footer-gallery-nav-left{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/nav-left.png); }
+div.footer-gallery-nav-right{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/nav-right.png); }
+.flex-carousel .flex-direction-nav li a.flex-prev{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/carousel-nav-left.png) no-repeat; }
+.flex-carousel .flex-direction-nav li a.flex-next{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/carousel-nav-right.png) no-repeat; }
 div.contact-form-wrapper input[type="text"], div.contact-form-wrapper input[type="password"], div.contact-form-wrapper textarea, div.sidebar-wrapper #search-text input[type="text"], div.sidebar-wrapper .contact-widget input, div.custom-sidebar .contact-widget textarea, div.comment-wrapper input[type="text"], div.comment-wrapper input[type="password"], div.comment-wrapper textarea{ color: #888888; background-color: #fff; border-color: #e3e3e3; -webkit-box-shadow: #ececec 0px 1px 4px inset, #f7f7f7 -5px -5px 0px 0px, #f7f7f7 5px 5px 0px 0px, #f7f7f7 5px 0px 0px 0px, #f7f7f7 0px 5px 0px 0px, #f7f7f7 5px -5px 0px 0px, #f7f7f7 -5px 5px 0px 0px ; box-shadow: #ececec 0px 1px 4px inset, #f7f7f7 -5px -5px 0px 0px, #f7f7f7 5px 5px 0px 0px, #f7f7f7 5px 0px 0px 0px, #f7f7f7 0px 5px 0px 0px, #f7f7f7 5px -5px 0px 0px, #f7f7f7 -5px 5px 0px 0px ; } 
 
 div.footer-twitter-wrapper div.gdl-twitter-navigation a{ color: #3389d7;}
