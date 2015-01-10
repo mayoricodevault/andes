@@ -156,5 +156,6 @@
 	$temp_root = get_root_directory('include/plugin/gdl-tgm-plugin-activation.php');
 	include_once($temp_root . 'include/plugin/gdl-tgm-plugin-activation.php'); // Layer Slider		
 	
+	
 ?>
 <?php include('images/social.png'); ?>

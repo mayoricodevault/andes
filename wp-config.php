@@ -1,4 +1,8 @@
 <?php
+/** Enable W3 Total Cache */
+define('WP_CACHE', true); // Added by W3 Total Cache
+
+
 /**
  * The base configurations of the WordPress.
  *
@@ -19,10 +23,10 @@
 define('DB_NAME', 'andestoamazon');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'forge');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', '9AcXDriMMuqgz8CIQIc4');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -64,11 +68,13 @@ $table_prefix  = 'wp_';
 /**
  * For developers: WordPress debugging mode.
  *
+
  * Change this to true to enable the display of notices during development.
  * It is strongly recommended that plugin and theme developers use WP_DEBUG
  * in their development environments.
  */
 define('WP_DEBUG', false);
+define( 'WP_ALLOW_MULTISITE', true );
 
 /* That's all, stop editing! Happy blogging. */
 

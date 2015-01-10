@@ -1,27 +1,27 @@
-.top-navigation-wrapper, .top-navigation-wrapper a{ color: #c2c2c2; } 
+.top-navigation-wrapper, .top-navigation-wrapper a{ color: #e8851a; } 
 div.top-search-wrapper input[type="submit"]{ border-color: #bababa; } 
 div.top-search-wrapper input[type="text"]{ color: #a3a3a3; } 
 div.top-search-wrapper input[type="text"]{ background-color: #424242; } 
 .sf-menu li a{ color: #ffffff; } 
 .sf-menu li a:hover{ color: #ffffff; } 
 .sf-menu li.current-menu-ancestor a, .sf-menu li.current-page-ancestor a, .sf-menu li.current-menu-item a, .sf-menu li.current-post-ancestor a{ color: #ffffff; } 
-.gdl-current-menu{ background-color: #3489d7; } 
+.gdl-current-menu{ background-color: #e8851a; } 
 ul.sf-menu li li{ background-color: #232323; } 
 ul.sf-menu li.sfHover ul li:first-child a{ border-top-color: #ffffff; } 
 ul.sf-menu li li a, ul.sf-menu li.current-menu-item li a, ul.sf-menu li.current-menu-ancestor li a, ul.sf-menu li.current-page-ancestor li a, ul.sf-menu li li.current-menu-item li a, ul.sf-menu li li.current-menu-ancestor li a, ul.sf-menu li.current-post-ancestor li a, div.floating-nav-wrapper ul.sf-menu li li a, div.floating-nav-wrapper ul.sf-menu li.current-menu-item li a, div.floating-nav-wrapper ul.sf-menu li.current-menu-ancestor li a, div.floating-nav-wrapper ul.sf-menu li.current-page-ancestor li a, div.floating-nav-wrapper ul.sf-menu li li.current-menu-item li a,  div.floating-nav-wrapper ul.sf-menu li li.current-menu-ancestor li a, div.floating-nav-wrapper ul.sf-menu li.current-post-ancestor li a{ color: #c1c1c1; } 
-ul.sf-menu li li a:hover, ul.sf-menu li li.current-menu-item li a:hover, .sf-menu li li.current-menu-ancestor li a:hover, .sf-menu li li.current-page-ancestor li a:hover, div.floating-nav-wrapper ul.sf-menu li li a:hover, div.floating-nav-wrapper ul.sf-menu li li.current-menu-item li a:hover, div.floating-nav-wrapper .sf-menu li li.current-menu-ancestor li a:hover, div.floating-nav-wrapper .sf-menu li li.current-page-ancestor li a:hover{ color: #f2f2f2; } 
+ul.sf-menu li li a:hover, ul.sf-menu li li.current-menu-item li a:hover, .sf-menu li li.current-menu-ancestor li a:hover, .sf-menu li li.current-page-ancestor li a:hover, div.floating-nav-wrapper ul.sf-menu li li a:hover, div.floating-nav-wrapper ul.sf-menu li li.current-menu-item li a:hover, div.floating-nav-wrapper .sf-menu li li.current-menu-ancestor li a:hover, div.floating-nav-wrapper .sf-menu li li.current-page-ancestor li a:hover{ color: #e8851a; } 
 ul.sf-menu li li.current-menu-item a, ul.sf-menu li li.current-menu-ancestor a, ul.sf-menu li li.current-page-ancestor a, ul.sf-menu li li.current-menu-ancestor li.current-menu-item a, ul.sf-menu li li.current-page-ancestor li.current-menu-item a, ul.sf-menu li li.current-post-ancestor adiv.floating-nav-wrapper ul.sf-menu li li.current-menu-item a, div.floating-nav-wrapper ul.sf-menu li li.current-menu-ancestor a, div.floating-nav-wrapper ul.sf-menu li li.current-page-ancestor a, div.floating-nav-wrapper ul.sf-menu li li.current-menu-ancestor li.current-menu-item a, div.floating-nav-wrapper ul.sf-menu li li.current-page-ancestor li.current-menu-item a, div.floating-nav-wrapper ul.sf-menu li li.current-post-ancestor a{ color: #f2f2f2; } 
-div.page-header-overlay{ background-color: #3389d7; } 
+div.page-header-overlay{ background-color: #3488d7; } 
 .page-header-title{ color: #ffffff; } 
 div.page-header-caption{ color: #ffffff; } 
 h3.gdl-header-title{ color: #3d3d3d; } 
-div.gdl-header-wrapper i{ color: #3389d7; } 
+div.gdl-header-wrapper i{ color: #e8851a; } 
 h1, h2, h3, h4, h5, h6{ color: #111111; } 
 body{ color: #505050; } 
 html{ background-color: #ffffff; } 
 div.body-outer-wrapper.gdlr-boxed-style{ background-color: #ffffff; } 
-a{ color: #3389d7; } 
-a:hover{ color: #80acd6; } 
+a{ color: #e8851a; } 
+a:hover{ color: #80add6; } 
 ::selection, ::-moz-selection{ color: #ffffff; } 
 ::selection, ::-moz-selection{ background-color: #4f4f4f; } 
 .sidebar-wrapper a{ color: #3389d7; } 
@@ -76,14 +76,14 @@ h1.stunning-text-title{ color: #3389d7; }
 h2.blog-title a, h1.blog-title a, div.portfolio-item .page-item-title a{ color: #424242; } 
 h2.blog-title a:hover, h1.blog-title a:hover, div.portfolio-item .page-item-title a:hover{ color: #9c9c9c; } 
 div.blog-info-wrapper, div.blog-info-wrapper a, div.gdl-blog-full .blog-comment, div.gdl-blog-full .blog-comment a, div.gdl-blog-medium .blog-tag, div.gdl-blog-medium .blog-tag a{ color: #9b9b9b; } 
-div.gdl-blog-widget .blog-title a, div.gdl-blog-list .blog-title a{ color: #3389d7; } 
+div.gdl-blog-widget .blog-title a, div.gdl-blog-list .blog-title a{ color: #e8851a; } 
 div.gdl-blog-widget div.blog-info-wrapper, div.gdl-blog-widget div.blog-info-wrapper a, div.gdl-blog-list .blog-date, div.gdl-blog-list .blog-date a{ color: #9b9b9b; } 
 .about-author-wrapper{ background-color: #f5f5f5; } 
 div.gdl-pagination a{ background-color: #f5f5f5; } 
 div.gdl-pagination a{ color: #7b7b7b; } 
-div.gdl-pagination a:hover{ background-color: #3389d7; } 
+div.gdl-pagination a:hover{ background-color: #e8851a; } 
 div.gdl-pagination a:hover{ color: #ffffff; } 
-div.gdl-pagination span{ background-color: #3389d7; } 
+div.gdl-pagination span{ background-color: #e8851a; } 
 div.gdl-pagination span{ color: #ffffff; } 
 div.portfolio-media-wrapper span.portfolio-thumbnail-image-hover{ background-color: #000000; } 
 .portfolio-item .portfolio-title a{ color: #2d2d2d; } 
@@ -96,12 +96,12 @@ div.portfolio-filter-wrapper div.port-current-bar{ border-color: #3389d7; }
 div.single-portfolio .port-info{ color: #7a7a7a; } 
 div.single-portfolio .port-info .head{ color: #404040; } 
 div.portfolio-carousel-wrapper .port-nav, div.portfolio-carousel-description .port-nav, div.single-portfolio .port-nav a, div.blog-carousel-wrapper .blog-nav{ background-color: #f6f6f6; } 
-.package-title a{ color: #3389d7; } 
-div.package-info .package-price{ color: #3389d7; } 
+.package-title a{ color: #e8851a; } 
+div.package-info .package-price{ color: #e8851a; } 
 div.package-info .discount-text, div.package-info .discount-price, div.package-info .separator{ color: #e9513c; } 
 .package-item-holder .package-date, .package-item-holder .package-date a, .package-item-holder .package-info{ color: #939393; } 
 .package-type, .package-type a{ color: #ffffff; } 
-.package-type{ background-color: #3389d7; } 
+.package-type{ background-color: #e8851a; } 
 .package-type.last-minute{ background-color: #e9513c; } 
 .package-type-gimmick{ border-top-color: #000000; } 
 div.gdl-package-full .package-info-wrapper{ background-color: #f7f7f7; } 
@@ -163,7 +163,7 @@ div.gdl-static-testimonial .testimonial-item{ border-color: #efefef; }
 div.gdl-static-testimonial .testimonial-info{ color: #848484; } 
 .logo-wrapper{ padding-top: 22px; padding-bottom: 18px; } 
 div#main-superfish-wrapper{ padding-top: 22px; } 
-h1.gdl-header-title{ font-size: 25px; } 
+h1.gdl-header-title{ font-size: 21px; } 
 body{ font-size: 13px; } 
 h3.custom-sidebar-title{ font-size: 22px; } 
 h1{ font-size: 30px; } 
@@ -172,42 +172,42 @@ h3{ font-size: 20px; }
 h4{ font-size: 18px; } 
 h5{ font-size: 16px; } 
 h6{ font-size: 15px; } 
-body{ font-family: ""; } 
-h1, h2, h3, h4, h5, h6, div.price-item .price-title, div.price-item .price-tag { font-family: ""; } 
-.gdl-slider-title{ font-family: ""; } 
-.page-header-title, .page-header-caption{ font-family: ""; } 
-h1.stunning-text-title, .under-slider-title{ font-family: ""; } 
-div.navigation-wrapper{ font-family: ""; } 
+body{ font-family: "Droid Sans"; } 
+h1, h2, h3, h4, h5, h6, div.price-item .price-title, div.price-item .price-tag { font-family: "Roboto Condensed"; } 
+.gdl-slider-title{ font-family: "Open Sans"; } 
+.page-header-title, .page-header-caption{ font-family: "Open Sans"; } 
+h1.stunning-text-title, .under-slider-title{ font-family: "Open Sans"; } 
+div.navigation-wrapper{ font-family: "Open Sans"; } 
 .blog-info-wrapper i{ color: #6e6e6e; }
-div.personnal-widget-prev{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/personnal-widget-left.png); }
-div.personnal-widget-next{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/personnal-widget-right.png); }
-div.gdl-search-button, div.custom-sidebar #searchsubmit{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/search-button.png) no-repeat center; }
-div.top-search-wrapper input[type='submit']{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/top-search.png) no-repeat right center;; }
-div.custom-sidebar ul li{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/li-arrow.png); }
-ul.gdl-accordion li, ul.gdl-toggle-box li{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-background.png); }
-li.active > .accordion-title > span.accordion-icon, li.active > .toggle-box-title > span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title-active.png); }
-span.accordion-icon, span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title.png); }
-div.gdl-carousel-testimonial .testimonial-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/testimonial-quote.png); }
-div.blog-carousel-wrapper .blog-nav.left, div.portfolio-carousel-wrapper .port-nav.left, div.portfolio-carousel-description .port-nav.left, div.single-portfolio .port-prev-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-left.png); }
-div.blog-carousel-wrapper .blog-nav.right, div.portfolio-carousel-wrapper .port-nav.right, div.portfolio-carousel-description .port-nav.right, div.single-portfolio .port-next-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-right.png); }
+div.personnal-widget-prev{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/personnal-widget-left.png); } 
+div.personnal-widget-next{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/personnal-widget-right.png); } 
+div.gdl-search-button, div.custom-sidebar #searchsubmit{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/search-button.png) no-repeat center; } 
+div.top-search-wrapper input[type='submit']{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/top-search.png) no-repeat right center;; } 
+div.custom-sidebar ul li{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/li-arrow.png); } 
+ul.gdl-accordion li, ul.gdl-toggle-box li{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-background.png); } 
+li.active > .accordion-title > span.accordion-icon, li.active > .toggle-box-title > span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title-active.png); } 
+span.accordion-icon, span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title.png); } 
+div.gdl-carousel-testimonial .testimonial-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/testimonial-quote.png); } 
+div.blog-carousel-wrapper .blog-nav.left, div.portfolio-carousel-wrapper .port-nav.left, div.portfolio-carousel-description .port-nav.left, div.single-portfolio .port-prev-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-left.png); } 
+div.blog-carousel-wrapper .blog-nav.right, div.portfolio-carousel-wrapper .port-nav.right, div.portfolio-carousel-description .port-nav.right, div.single-portfolio .port-next-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-right.png); } 
 @media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1),
 only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
-div.top-search-wrapper input[type='submit']{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/top-search@2x.png) no-repeat right center;; }
-li.active > .accordion-title > span.accordion-icon, li.active > .toggle-box-title > span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title-active@2x.png); }
-span.accordion-icon, span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title@2x.png); }
-div.gdl-carousel-testimonial .testimonial-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/testimonial-quote@2x.png); }
-div.blog-carousel-wrapper .blog-nav.left, div.portfolio-carousel-wrapper .port-nav.left, div.portfolio-carousel-description .port-nav.left, div.single-portfolio .port-prev-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-left@2x.png); }
-div.blog-carousel-wrapper .blog-nav.right, div.portfolio-carousel-wrapper .port-nav.right, div.portfolio-carousel-description .port-nav.right, div.single-portfolio .port-next-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-right@2x.png); }
+div.top-search-wrapper input[type='submit']{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/top-search@2x.png) no-repeat right center;; } 
+li.active > .accordion-title > span.accordion-icon, li.active > .toggle-box-title > span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title-active@2x.png); } 
+span.accordion-icon, span.toggle-box-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/accordion-title@2x.png); } 
+div.gdl-carousel-testimonial .testimonial-icon{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/testimonial-quote@2x.png); } 
+div.blog-carousel-wrapper .blog-nav.left, div.portfolio-carousel-wrapper .port-nav.left, div.portfolio-carousel-description .port-nav.left, div.single-portfolio .port-prev-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-left@2x.png); } 
+div.blog-carousel-wrapper .blog-nav.right, div.portfolio-carousel-wrapper .port-nav.right, div.portfolio-carousel-description .port-nav.right, div.single-portfolio .port-next-nav a{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/dark/nav-right@2x.png); } 
 }
-div.footer-wrapper div.custom-sidebar ul li{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/li-arrow.png) no-repeat 0px center; }
-div.footer-wrapper div.custom-sidebar #searchsubmit{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/search-button.png) no-repeat center; }
-div.footer-wrapper div.personnal-widget-prev{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/personnal-widget-left.png); }
-div.footer-wrapper div.personnal-widget-next{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/personnal-widget-right.png); }
-div.footer-gallery-nav-left{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/nav-left.png); }
-div.footer-gallery-nav-right{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/nav-right.png); }
-.flex-carousel .flex-direction-nav li a.flex-prev{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/carousel-nav-left.png) no-repeat; }
-.flex-carousel .flex-direction-nav li a.flex-next{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/carousel-nav-right.png) no-repeat; }
-div.contact-form-wrapper input[type="text"], div.contact-form-wrapper input[type="password"], div.contact-form-wrapper textarea, div.sidebar-wrapper #search-text input[type="text"], div.sidebar-wrapper .contact-widget input, div.custom-sidebar .contact-widget textarea, div.comment-wrapper input[type="text"], div.comment-wrapper input[type="password"], div.comment-wrapper textarea{ color: #888888; background-color: #fff; border-color: #e3e3e3; -webkit-box-shadow: #ececec 0px 1px 4px inset, #f7f7f7 -5px -5px 0px 0px, #f7f7f7 5px 5px 0px 0px, #f7f7f7 5px 0px 0px 0px, #f7f7f7 0px 5px 0px 0px, #f7f7f7 5px -5px 0px 0px, #f7f7f7 -5px 5px 0px 0px ; box-shadow: #ececec 0px 1px 4px inset, #f7f7f7 -5px -5px 0px 0px, #f7f7f7 5px 5px 0px 0px, #f7f7f7 5px 0px 0px 0px, #f7f7f7 0px 5px 0px 0px, #f7f7f7 5px -5px 0px 0px, #f7f7f7 -5px 5px 0px 0px ; } 
+div.footer-wrapper div.custom-sidebar ul li{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/li-arrow.png) no-repeat 0px center; } 
+div.footer-wrapper div.custom-sidebar #searchsubmit{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/search-button.png) no-repeat center; } 
+div.footer-wrapper div.personnal-widget-prev{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/personnal-widget-left.png); } 
+div.footer-wrapper div.personnal-widget-next{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/personnal-widget-right.png); } 
+div.footer-gallery-nav-left{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/nav-left.png); } 
+div.footer-gallery-nav-right{ background-image: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/nav-right.png); } 
+.flex-carousel .flex-direction-nav li a.flex-prev{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/carousel-nav-left.png) no-repeat; } 
+.flex-carousel .flex-direction-nav li a.flex-next{ background: url(http://andes.applabhub.com/wp-content/themes/tourpackage-v2-00/images/icon/light/carousel-nav-right.png) no-repeat; } 
+div.contact-form-wrapper input[type="text"], div.contact-form-wrapper input[type="password"], div.contact-form-wrapper textarea, div.sidebar-wrapper #search-text input[type="text"], div.sidebar-wrapper .contact-widget input, div.custom-sidebar .contact-widget textarea, div.comment-wrapper input[type="text"], div.comment-wrapper input[type="password"], div.comment-wrapper textarea{ color: #888888; background-color: #ffffff; border-color: #e3e3e3; -webkit-box-shadow: #ececec 0px 1px 4px inset, #f7f7f7 -5px -5px 0px 0px, #f7f7f7 5px 5px 0px 0px, #f7f7f7 5px 0px 0px 0px, #f7f7f7 0px 5px 0px 0px, #f7f7f7 5px -5px 0px 0px, #f7f7f7 -5px 5px 0px 0px ; box-shadow: #ececec 0px 1px 4px inset, #f7f7f7 -5px -5px 0px 0px, #f7f7f7 5px 5px 0px 0px, #f7f7f7 5px 0px 0px 0px, #f7f7f7 0px 5px 0px 0px, #f7f7f7 5px -5px 0px 0px, #f7f7f7 -5px 5px 0px 0px ; } 
 
 div.footer-twitter-wrapper div.gdl-twitter-navigation a{ color: #3389d7;}
 div.footer-twitter-wrapper div.gdl-twitter-navigation a{ background: #ffffff;}
@@ -217,11 +217,12 @@ div.stunning-text-wrapper .stunning-text-button-wrapper{
 background: #f16337; 
 }
 .gdl-button, button, input[type="submit"], input[type="reset"], input[type="button"]{ 
-border-color: #ab5203;
+border-color: #246096;
 }
 div.price-button-wrapper .gdl-button{ 
-border-color: #ab5203;
+border-color: #246096;
 }
 div.under-slider-wrapper .under-slider-button{ 
 border-color: #353535;
 }
+div.header-outer-wrapper.no-top-slider{ background-image: url("http://andes.applabhub.com/wp-content/uploads/2014/12/10856417_10205347719392831_70277596_o.jpg"); }
